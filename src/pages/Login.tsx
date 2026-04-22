@@ -33,7 +33,7 @@ const Login = () => {
           </div>
         </div>
         <h2 className="mt-6 text-center text-3xl font-bold text-gray-900">
-          Sign in to P.O.S Admin v1.0.2
+          Sign in to P.O.S Admin v1.0.3
         </h2>
       </div>
       <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
